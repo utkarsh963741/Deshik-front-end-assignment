@@ -1,4 +1,4 @@
-# hello-world
+# Vue-Dashboard
 
 ## Project setup
 ```
