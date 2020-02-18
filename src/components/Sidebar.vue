@@ -1,7 +1,7 @@
 <template>
-  <div style="width:100%">
+  <div style="width:100%;">
     <div class="container">
-      <div id="logoName"><i class="fa fa-bullseye" style="margin-right:10px;margin-left:10px" ></i> <p style="margin-right:10px">  FoodPanda</p></div>
+      <div id="logoName"><i class="fa fa-bullseye" style="margin-right:10px;margin-left:10px" ></i> <p style="margin-right:10px;margin-top:13px">  FoodPanda</p></div>
       
     </div>
 
@@ -20,6 +20,7 @@ export default {
     background-color: #f9f9f9;
     width: 100% !important;
     height: auto;
+    padding:0px;
    
 
   }
@@ -29,7 +30,7 @@ export default {
     flex-direction: row;
     background-color: red;
     width: 100% !important ;
-    height: 55px;
+    height: 50px;
     color: white;
     font-weight: bold;
     font-size: 1.5em;
